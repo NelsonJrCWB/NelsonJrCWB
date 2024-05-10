@@ -12,6 +12,7 @@
 - **Data Modeling**: I’m all about structuring data elegantly. Whether it’s designing star schemas, snowflakes, or creating efficient data models, I find joy in shaping data for optimal insights.
 - **ETL**: Extract, Transform, Load—my bread and butter! I orchestrate ETL pipelines, wrangle messy data, and ensure smooth data flows. Transforming raw data into valuable insights? That’s my jam!
 
-- 📫 **Feel free to connect** — I’m always up for discussing data challenges, sharing insights, and collaborating on exciting projects! 🚀
+# 📫 **Feel free to connect** 
+## I’m always up for discussing data challenges, sharing insights, and collaborating on exciting projects! 🚀
 
 
